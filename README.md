@@ -59,3 +59,5 @@ streamlit run app.py
 - `app.py` — Streamlit dashboard application
 - `requirements.txt` — Python dependencies
 - `european_bank.csv` — Dataset
+
+- Live Dashboard : https://finance-with-simran-european-bank-retention-analytic-app-fcieg6.streamlit.app/

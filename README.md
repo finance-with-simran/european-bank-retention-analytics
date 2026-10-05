@@ -49,12 +49,6 @@ The Streamlit dashboard includes:
 - Retention Strength scoring
 - Strategic recommendations
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ## Files
 - `app.py` — Streamlit dashboard application
 - `requirements.txt` — Python dependencies
